@@ -6,6 +6,7 @@ import json
 import xml.etree.ElementTree as ET
 import seaborn as sns
 
+#You will haveto specify the game and the player and time period
 
 
 #plt.show()
